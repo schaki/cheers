@@ -2,7 +2,7 @@ defmodule Cheers.UserSocket do
   use Phoenix.Socket
 
   ## Channels
-  # channel "room:*", Cheers.RoomChannel
+  channel "room:*", Cheers.RoomChannel
 
   ## Transports
   transport :websocket, Phoenix.Transports.WebSocket

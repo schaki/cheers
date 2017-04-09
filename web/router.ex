@@ -22,7 +22,7 @@ defmodule Cheers.Router do
   end
 
   # Other scopes may use custom stacks.
-  # scope "/api", Cheers do
-  #   pipe_through :api
-  # end
+  scope "/api", Cheers do
+    pipe_through :api
+  end
 end

@@ -1,5 +1,10 @@
-/* This file is for your main application css. */
+body {
+    font-family: 'Hind', serif;
+}
+
 .logo {
     background-image:  url("https://mdn.mozillademos.org/files/7693/catfront.png");
-    height: 300px;
+    height: 60px;
+    display: flex;
+    background-repeat: no-repeat;
 }
