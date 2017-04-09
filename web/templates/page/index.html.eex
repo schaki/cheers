@@ -1,0 +1,16 @@
+<div class="lander">
+  <h2><%= gettext "%{event_name}", event_name: "Cheers To The Chakis" %></h2>
+  <p class="lander-date">October 21,2017</p>
+</div>
+
+<div class="row marketing">
+  <div class="section">
+    <h3>How We Met</h3>
+  </div>
+  <div class="section">
+    <h3>The Ceremony</h3>
+  </div>
+  <div class="section">
+    <h3>Pictures!</h3>
+  </div>
+</div>
