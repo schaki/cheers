@@ -1,17 +1,27 @@
-<div class="header">
+<div class="main header">
   <h2>Cheers To The Chakis</h2>
 </div>
 
 <nav class="nav">
   <ul>
     <li class="nav-item">
-      <span>How We Met</span>
+      <span>Our Wedding</span>
     </li>
     <li class="nav-item">
-      <span>The Ceremony</span>
+      <span>Details</span>
     </li>
     <li class="nav-item">
-      <span>Pictures!</span>
+      <span>Pictures</span>
+    </li>
+    <li class="nav-item">
+      <span>Registry</span>
     </li>
   </ul>
 </nav>
+
+<div class="section">
+  <div class="section header">Kristina & Sayan</div>
+  <div class="section body">
+    <span class="hero-image">Picture Here</span>
+  </div>
+</div>
