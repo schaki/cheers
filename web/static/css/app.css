@@ -2,6 +2,32 @@ body {
     font-family: 'Hind', serif;
 }
 
+.container {
+    width: 100%;
+}
+
+.container .header {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+.nav {
+    width: 100%;
+}
+
+.nav ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+li.nav-item {
+    display: inline-block;
+    list-style: none;
+    width: 33%;
+    text-align: center;
+}
+
 .logo {
     background-image:  url("https://mdn.mozillademos.org/files/7693/catfront.png");
     height: 60px;
